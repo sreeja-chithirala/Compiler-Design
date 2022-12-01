@@ -56,7 +56,7 @@ pop();
 push('E');
 printf("Reduce E->d");
 }
-else if(stack[top]=='E' && stack[top-1]=='+' && stack[top-2]=='E'&& ip!='')
+else if(stack[top]=='E' && stack[top-1]=='+' && stack[top-2]=='E'&& ip!=NULL)
 {
 display();
 pop();
