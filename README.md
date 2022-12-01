@@ -17,7 +17,26 @@ LAB3:
 5) Recognize a string with three consecutive 0’s
 
 LAB4:
-1) Implementation of lexical analyzer using LEX
+1) Implementation of lexical analyzer using LEX.
 
 LAB5:
-1) Lexical Analyzer for a language
+1) Lexical Analyzer for a language.
+
+LAB6:
+1) Implement Recursive Descent Parser.
+
+LAB7:
+1) Predictive parser.
+Write a C program for the computation of FIRST and FOLLOW for a given CFG.
+
+LAB8:
+1) Predictive Parser.
+Implement non-recursive Predictive Parser for the grammar.
+
+LAB9:
+1) Shift Reduce Parser.
+Implementation of Shift Reduce parser using C .
+
+LAB10:
+1) LALR Parser.
+Implement LALR parser using LEX and YACC.
