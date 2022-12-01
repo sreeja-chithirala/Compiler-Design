@@ -17,3 +17,7 @@ LAB3:
 5) Recognize a string with three consecutive 0’s
 
 LAB4:
+1) Implementation of lexical analyzer using LEX
+
+LAB5:
+1) Lexical Analyzer for a language
