@@ -1,0 +1,29 @@
+The tokens are : 
+float
+a
+=
+10.15 error! 63
+;
+float
+b
+=
+20.26
+;
+int
+c
+=
+a
+*
+b
+;
+printf
+(
+
+%
+d
+,
+c
+)
+;
+return
+;
