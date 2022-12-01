@@ -1,0 +1,5 @@
+float a=10.15.63;
+float b=20.26;
+int c=a*b;
+printf("%d",c);
+return;
