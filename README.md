@@ -1,5 +1,5 @@
 # Compiler-Design
-Consists of lex codes
+Consists of lex codes and codes for various parsers.
 
 
 LAB1:
@@ -36,7 +36,3 @@ Implement non-recursive Predictive Parser for the grammar.
 LAB9:
 1) Shift Reduce Parser.
 Implementation of Shift Reduce parser using C .
-
-LAB10:
-1) LALR Parser.
-Implement LALR parser using LEX and YACC.
